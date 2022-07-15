@@ -1,3 +1,7 @@
 # tribute
  Tribute
-<img src="https://raw.githubusercontent.com/CodrinGavan/tribute/master/Tribute.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/tribute/">Live Preview</a>
+ </li>
+ </ul>
